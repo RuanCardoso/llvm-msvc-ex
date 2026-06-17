@@ -1,0 +1,3 @@
+//extension handlers
+HANDLE_EXTENSION(Obfuscation)
+#undef HANDLE_EXTENSION
